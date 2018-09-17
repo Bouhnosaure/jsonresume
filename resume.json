@@ -1,0 +1,378 @@
+{
+  "awards": [],
+  "basics": {
+    "name": "Alexandre Mangin",
+    "label": "Full-Stack Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/3416579",
+    "email": "alexandre.mangin@viacesi.fr",
+    "phone": "+33 616 391 876",
+    "website": "https://github.com/Bouhnosaure",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "33000",
+      "city": "Bordeaux",
+      "countryCode": "France"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "bouhnosaure",
+        "url": "https://github.com/Bouhnosaure"
+      },
+      {
+        "network": "Soundcloud",
+        "username": "citrex",
+        "url": "https://soundcloud.com/citrex"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Exia",
+      "area": "Bordeaux",
+      "studyType": "Manageur des systèmes d'informations",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2016-01-01"
+    },
+    {
+      "institution": "Lycée Gustave Eiffel",
+      "area": "Bordeaux",
+      "studyType": "STG Gestion des systèmes d'information",
+      "startDate": "2010-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2011-01-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "publications": [],
+  "references": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "PHP",
+        "Javascript ES5/ES6",
+        "C#",
+        "C++",
+        "Java",
+        "SQL",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Laravel 5.*",
+        "Node.js",
+        "VueJS",
+        "React",
+        "Mobx",
+        "Ionic"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Mysql",
+        "MongoDB",
+        "ElasticSearch",
+        "Solr",
+        "Redis",
+        "RabbitMQ (messaging)",
+        "SQLite",
+        "CouchDB"
+      ]
+    },
+    {
+      "name": "System / Ops",
+      "level": "",
+      "keywords": [
+        "Linux Systems (Debian/Ubuntu/Fedora/Centos/Alpine)",
+        "AWS",
+        "DC/OS",
+        "Marathon",
+        "Jenkins",
+        "Rancher",
+        "Docker",
+        "Proxmox",
+        "CD/CI",
+        "Provision/Deployment"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "IRIS IT LIMITED",
+      "position": "Full-stack Developer",
+      "website": "",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-20",
+      "summary": "Migration and porting of stock management software as a service (REST).\n\nIntegration of an Oauth2 authentication server Management of roles and advanced permissions.\n\nImplementation of audit and monitoring tools. \n\nOpenAPI v3 documentation\n\nBackend Laravel / Nodejs",
+      "highlights": [
+        "Laravel",
+        "NodeJs",
+        "Mysql",
+        "Redis",
+        "OpenAPIv3",
+        "Phpunit",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "IRIS IT LIMITED",
+      "position": "Fullstack Developer",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "2018-04-01",
+      "summary": "Development of an intranet for a large company.\n\nA file management system has been developed to take into account users's access rights and permissions in a granular way.\n\nUsers and groups are synchronized from an LDAP server.\n\nThe explorer and most of the visual components are developed using the Vue.js framework.\n\nThe backend part was made using Node.js and Laravel 5.6",
+      "highlights": [
+        "Laravel",
+        "NodeJs",
+        "Vue.js",
+        "LDAP",
+        "Mysql",
+        "Redis",
+        "Codeception",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "FindMyGuides",
+      "position": "Fullstack Developer",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-01",
+      "summary": "Development of an application to connect local guides and tourists.\n\nThe platform is multilingual, allows you to search for destinations and book a guide by defining your schedule.\n\nThe site allows a connection and follow-up for both parties.",
+      "highlights": [
+        "Laravel",
+        "NodeJs",
+        "Vue.js",
+        "Stripe",
+        "Paypal",
+        "Mysql",
+        "Redis",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Iris IT",
+      "position": "Fullstack developer",
+      "website": "http://www.irisit.fr/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-09-01",
+      "summary": "Various developments for Open Source projects",
+      "highlights": [
+        "Development",
+        "Database administration",
+        "Linux administration",
+        "Reverse engineering",
+        "Research and development",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Iris IT",
+      "position": "Fullstack developer",
+      "website": "",
+      "startDate": "2017-03-10",
+      "endDate": "2017-07-01",
+      "summary": "Design and deployment of a file sharing platform for design-oriented companies.\n\nThis web application can be used to open and share 3D files, Psd files, Illustrator and Vector based files and office documents.\n\nDeveloped with Laravel 5.4 as well as React and Tree.js",
+      "highlights": [
+        "Laravel",
+        "React",
+        "Tree.js",
+        "Mysql",
+        "Redis",
+        "Codeception",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Iris IT",
+      "position": "Fullstack developer",
+      "website": "https://www.nuget.org/packages/IrisIT.OpenFireRestClient/",
+      "startDate": "2017-03-10",
+      "endDate": "2017-03-15",
+      "summary": "Development of a REST client for the OpenFire server (igniterealtime.org/projects/openfire) in C#",
+      "highlights": [
+        "C#",
+        "RestSharp",
+        "Newtonsoft.Json"
+      ]
+    },
+    {
+      "company": "Iris IT",
+      "position": "Fullstack developer",
+      "website": "http://desktop.irispass.fr",
+      "startDate": "2015-11-20",
+      "endDate": "2017-02-01",
+      "summary": "Design and development of an online collaboration platform for SMEs.\n\nCreation of apis with Laravel 5.3 and clients with AngularJS.\n\nIntegration of open source solutions and virtual office systems ( SSO (Jboss Keycloak) and os.js).\n\nCreation of virtual file system for advanced sharing.\n\nDevelopment of an intuitive and extensible CRM.\n\nImplementation of server provisioning, continuous integration and deployment processes. (DC/OS, Jenkins, Docker, Marathon, Gogs)",
+      "highlights": [
+        "Laravel",
+        "OS.JS",
+        "Javascript",
+        "Keycloak (SSO)",
+        "Mysql",
+        "Redis",
+        "Codeception",
+        "DC/OS",
+        "Docker",
+        "Jenkins",
+        "Marathon",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Iris IT",
+      "position": "Fullstack developer",
+      "website": "https://github.com/iris-it/invoice-manager",
+      "startDate": "2016-12-10",
+      "endDate": "2016-12-25",
+      "summary": "Open-source development of a document management tool awaiting validation between different entities ( quotation to be validated / invoices / documents to be signed /...).\n\nAll actors are notified by email of the actions that are relevant to them.\n\nDeveloped with Laravel 5.4",
+      "highlights": [
+        "Laravel",
+        "Mysql",
+        "Redis",
+        "Codeception",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Sites & Cie",
+      "position": "Fullstack developer",
+      "website": "http://www.sites-et-cie.com/",
+      "startDate": "2016-03-01",
+      "endDate": "2016-05-20",
+      "summary": "Design and production of an online ticketing system for tourist sites (SaaS).\n\nMobile application: Development of a mobile application running under AngularJS with Ionic.\n\nWeb Applications: Development of a backend and front end supporting wildcard subdomains with Laravel 5.2, Dingo, Redis, Mysql, Stripe, Paypal.\n\nProvision and deployment: Implementation of server provisioning, continuous integration and deployment processes. Data management (replications, clusters...)",
+      "highlights": [
+        "Laravel",
+        "AngularJs",
+        "Ionic",
+        "Mysql",
+        "Redis",
+        "Stripe",
+        "Proxmox",
+        "PayPal",
+        "Codeception",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Bziiit",
+      "position": "Fullstack developer",
+      "website": "http://bziiit.com",
+      "startDate": "2015-06-28",
+      "endDate": "2015-11-15",
+      "summary": "Development of several platforms (mobile, frontend, backend) for the analysis, processing and monetization of mass information.\n\nMobile application: Development of a mobile application running under AngularJS with Ionic Web.\n\nApplications: Development of several frontends under angularjs and material-design.\n\nBackend: Development of a REST API, With Laravel 5.1, Dingo, MongoDB, Redis, ...\n\nProvision and deployment: Implementation of server provisioning, continuous integration and deployment processes.Data management (replications, clusters, etc.) on Proxmox, Gluster, Haproxy technologies, etc.",
+      "highlights": [
+        "Laravel",
+        "AngularJs",
+        "Ionic",
+        "MongoDB",
+        "Redis",
+        "Proxmox",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "Tawacovoiturage",
+      "position": "Fullstack developer",
+      "website": "http://tawacovoiturage.fr",
+      "startDate": "2014-04-01",
+      "endDate": "2015-06-01",
+      "summary": "Development of an event and social carpooling website. ( >10K users )",
+      "highlights": [
+        "Codeigniter",
+        "Laravel",
+        "RabbitMQ",
+        "ElasticSearch",
+        "Mysql",
+        "Mailcatcher",
+        "Provision - Deployment"
+      ]
+    },
+    {
+      "company": "AJLSM",
+      "position": "Java Software Developer",
+      "website": "http://pleade.com/",
+      "startDate": "2014-06-26",
+      "endDate": "2014-09-15",
+      "summary": "Maintenance and various developments for business application Pleade.",
+      "highlights": [
+        "Apache Cocoon",
+        "Apache Solr",
+        "Google maps API",
+        "Leaflet",
+        "XML",
+        "EAD",
+        "Data processing"
+      ]
+    },
+    {
+      "company": "AJLSM",
+      "position": "Java Software Developer",
+      "website": "http://pleade.com/",
+      "startDate": "2014-01-05",
+      "endDate": "2014-04-28",
+      "summary": "Major Update of the business application Pleade.",
+      "highlights": [
+        "Apache Cocoon",
+        "Apache Solr",
+        "Google maps API",
+        "Leaflet",
+        "XML",
+        "EAD",
+        "Data processing"
+      ]
+    },
+    {
+      "company": "AJLSM",
+      "position": "Java Software Developer",
+      "website": "http://pleade.com/",
+      "startDate": "2013-06-30",
+      "endDate": "2013-09-15",
+      "summary": "Development of a mapping module and search results display for business application Pleade.",
+      "highlights": [
+        "Apache Cocoon",
+        "Google maps API",
+        "Leaflet",
+        "XML",
+        "EAD",
+        "Data processing"
+      ]
+    },
+    {
+      "company": "Archives Départementale de la Gironde",
+      "position": "Software Developer",
+      "website": "http://gael.gironde.fr/",
+      "startDate": "2012-09-15",
+      "endDate": "2012-12-21",
+      "summary": "Development of a statistics tool and mapping from XML EAD files.",
+      "highlights": [
+        "XML",
+        "EAD",
+        "Data processing on heavy files"
+      ]
+    }
+  ]
+}
